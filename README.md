@@ -18,3 +18,13 @@
 > A digital ghost.  
 > A hacker between light and shadow.  
 > A believer in privacy, open-source, and the downfall of surveillance capitalism.
+
+🧠 Digital Strategist | OSINT & Privacy Researcher
+
+🛡️ Cryptoanarchist | Hacker | Linux Adept 
+
+🧬 Building decentralized systems that governments can’t kill
+
+🗝️ Encryption, anonymity, self-sovereignty, and digital rebellion are my pillars
+
+⚡ Every line of code I write is an act of defiance
