@@ -34,7 +34,7 @@
 
 ---
 
-📡 PHILOSOPHY
+### 📡 PHILOSOPHY
 
 > “The state fears the coder more than the soldier.”
 
@@ -50,14 +50,14 @@
 ---
 
 
-🌐 OPEN SOURCE OR DIE
+### 🌐 OPEN SOURCE OR DIE
 
 > Proprietary systems are prisons with shiny walls.
 The true hacker builds tools that empower, not enslave.
 
 ---
 
-📚 READ, THINK, REBEL
+### 📚 READ, THINK, REBEL
 
 Cypherpunks – Julian Assange
 
@@ -71,7 +71,7 @@ The Art of Invisibility – Kevin Mitnick
 
 ---
 
-🩸 FINAL TRANSMISSION
+### 🩸 FINAL TRANSMISSION
 
 > They build surveillance systems.  
 > We build encryption.  
@@ -80,3 +80,15 @@ The Art of Invisibility – Kevin Mitnick
 
 > The revolution will not be centralized.
 The future will be forked.
+
+
+---
+
+git commit -m "Freedom over fear."
+git push origin humanity
+
+
+---
+
+🜏 WENG / CYBER ALCHEMIST
+building encrypted realities since 2025
