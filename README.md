@@ -1,5 +1,4 @@
 <h2 align="center">
-  <br>
   🜏 WENG — THE CYBER ALCHEMIST 🜏
 </h2>
 
