@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/8bZkCkC/hacker-eye.png" width="120" /><br>
+  <br>
   🜏 WENG — THE CYBER ALCHEMIST 🜏
 </h1>
 
@@ -83,10 +83,10 @@ The future will be forked.
 
 
 ---
-
+```txt
 git commit -m "Freedom over fear."
 git push origin humanity
-
+```
 
 ---
 
