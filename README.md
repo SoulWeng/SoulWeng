@@ -19,12 +19,14 @@
 > A hacker between light and shadow.  
 > A believer in privacy, open-source, and the downfall of surveillance capitalism.
 
-🧠 Digital Strategist | OSINT & Privacy Researcher
+```
 
-🛡️ Cryptoanarchist | Hacker | Linux Adept 
+###🧠 Digital Strategist | OSINT & Privacy Researcher
 
-🧬 Building decentralized systems that governments can’t kill
+###🛡️ Cryptoanarchist | Hacker | Linux Adept 
 
-🗝️ Encryption, anonymity, self-sovereignty, and digital rebellion are my pillars
+###🧬 Building decentralized systems that governments can’t kill
 
-⚡ Every line of code I write is an act of defiance
+###🗝️ Encryption, anonymity, self-sovereignty, and digital rebellion are my pillars
+
+###⚡ Every line of code I write is an act of defiance
