@@ -55,9 +55,28 @@
 > Proprietary systems are prisons with shiny walls.
 The true hacker builds tools that empower, not enslave.
 
-<p align="center">
-  <img src="https://i.ibb.co/9nDzWh5/bitcoin-dark.png" width="110" title="Code is currency. Freedom is non-fiat." />
-  <img src="https://i.ibb.co/V3j1HZZ/pgp-dark.png" width="100" title="Encrypt everything." />
-  <img src="https://i.ibb.co/Zmr9wMj/tor-dark.png" width="100" title="Anonymity is armor." />
-</p>
 ---
+
+📚 READ, THINK, REBEL
+
+Cypherpunks – Julian Assange
+
+The Hacker Manifesto – The Mentor (1986)
+
+Crypto Anarchy & Pirate Utopias – Peter Ludlow
+
+Permanent Record – Edward Snowden
+
+The Art of Invisibility – Kevin Mitnick
+
+---
+
+🩸 FINAL TRANSMISSION
+
+> They build surveillance systems.  
+> We build encryption.  
+> They build control.  
+> We build freedom.
+
+> The revolution will not be centralized.
+The future will be forked.
